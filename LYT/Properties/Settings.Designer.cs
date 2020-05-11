@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LYT.Properties
+namespace LogYourTime.Properties
 {
 
 
